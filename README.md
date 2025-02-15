@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data-driven projects that focus on business insights.
 - 📫 Reach me at LinkdIn: www.linkedin.com/in/zulfiqar-ansari | Email: zulfiqarhussain7777@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I once created visualizations of global coffee consumption trends!
+- ⚡ Fun fact: Coming Soon!
 
 <!---
 Dt-Ansari07/Dt-Ansari07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
