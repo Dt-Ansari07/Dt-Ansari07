@@ -1,4 +1,4 @@
-## 🎯 Aspiring Data Analyst focused on transforming raw data into meaningful business insights.
+## 🎯 Data Analyst focused on transforming raw data into meaningful business insights.
 
 I am a proactive problem-solver who enjoys optimizing processes and building efficient data-driven solutions.  
 I have hands-on experience in data analysis and visualization, and I’m continuously improving my skills in advanced analytics and machine learning.
